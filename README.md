@@ -17,7 +17,6 @@ Estudiante de 2.º año de la **Licenciatura en Gestión de TI** en la Universid
 
 ### 📈 Mis Proyectos
 - **Sistema de Gestión (CRUD):** Aplicación de backend con Python para administración de usuarios y datos en formato JSON.
-- **Lógica de Videojuegos:** Desarrollo de mecánicas y estados para proyectos estilo FNAF y Flappy Bird.
 
 ### 📫 Contacto
 - **LinkedIn:** [linkedin.com/in/nicolasdominguez06](https://linkedin.com/in/nicolasdominguez06)
